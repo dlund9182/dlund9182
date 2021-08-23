@@ -1,8 +1,8 @@
 Hi  
 
-My Name is Dennis. I currently have only one repository which is a repository of python code that parses weather date from websites that give weather forecasts for mountains 
-some of which are rather remote. The scrip stores the data in a database(actually it was two databases until the Mysql database stopped working).  The goal is to give enough 
-data(at least 10 years worth of data) so I can get a better idea of which mountains get the most precipitation and  snow which I suspect  will be either the Saint Elias Range
+My Name is Dennis. I currently have only one repository which is a repository of python code that parses weather data from websites that give weather forecasts for mountains 
+some of which are rather remote. The script stores the data in a database(actually it was two databases until the Mysql database stopped working).  The goal is to give enough 
+data(at least 10 years worth of data) so I can get a better idea of which mountains get the most precipitation and snow which I suspect  will be either the Saint Elias Range
 (more specifically the southern part of the range known as the Fairweather range) and various locations in the Southern Patagaonia Icefield.  I started this python scraping
 script in mid February of 2021 so that means I have weather forecast data starting from mid February of 2021 but have added additional locations in April and May.  Starting 
 January 1st of 2022 I will erase the data and start from scratch since I want the locations to all start on the same day and be judged by entire years.
