@@ -16,8 +16,8 @@ the windiest locations as well. Note that it would be impossible for any locatio
 a place is. Really cold places like Dome A in Antartica are very dry because at really cold temperatures they just can't hold a lot of precipitation.  In addition a really 
 cold place like Dome A has very little wind. On the other end of the spectrum a 0 would be considered the exact opposite of the worst weather in the world. 
 
-For a location to be considered it has to have weather forecast info from both websites so Dome A actually isn't considered since I only have weather forecast date from one 
-website.  So here are the current results from the data I have so far. Keep in mind that this hasn't been even a full year of data and since as of this writing its Summer in 
+For a location to be considered it has to have weather forecast info from both websites so Dome A actually isn't considered since I only have weather forecast data from one 
+website.  So here are the current results from the data I have so far. Keep in mind that this hasn't been even a full year of data and as of this writing its Summer in 
 Northern Hemisphere and Winter in the Southern Hemisphere, mountains in the Southern Hemisphere come out on top as having the worst weather but once it hits fall in Northern 
 Hemisphere the results would start to switch in favor of the Northern Hemisphere. Thats why to really make a more objective assesment we really do need a number of full years 
 of data. Well anyway here is what the data says so far for the worst wealther in the world
@@ -186,7 +186,7 @@ of data. Well anyway here is what the data says so far for the worst wealther in
 
 The top 6 are all in the Southern Hemisphere which is to be expected given its August 22nd as of this writing. Note that Mount Saint Elias is in the number 7th spot even 
 though its in the Northern Hemisphere so this maybe a pretty good indicator that Mount Saint Elias might consistently have one of the worst weather in the world regardless of 
-which time of year it is. There might be other locations on glaciers (I'm thinking in particular of the Southern Patagonia Icefield) that have even worst weather but there is 
+which time of year it is. There might be other locations on glaciers (I'm thinking in particular of the Southern Patagonia Icefield) that have even worse weather but there is 
 no weather forecasting websites that give data for those locations.
 
 
@@ -197,11 +197,11 @@ Note what Mount Washington is rather low in terms of its rating despite how ofte
 But more generally what am I interested in? In the short term anything related to Python but am interested in other languages as well like Java, C++ and Maybe Haskell. In the 
 long run Data science and possibly Machine learning especially in the context of better understanding scientific  issues(in particular as it relates to Climate and weather 
 forecasting in extreme weather enviroments).  I'm in particular trying to find some kind of python module that can give reliable climate data based on latitude and longitude 
-for South America simuilar to what http://www.climatewna.com/ does for North America. I know of one window based piece of software but the precipiation data is really 
+for South America similar to what http://www.climatewna.com/ does for North America. I know of one window based piece of software but the precipiation data is really 
 unreliable for the part of the South America I'm interestedin(North and South Patagonia Icefield). I also know of https://spotwx.com/ but that gives forecast info for 
 elevations that are lower than the actual elevation for a latitude/longitude pair.
 
-I also would to do something similar with air quality for National Parks and wilderness areas.
+I also want to do something similar with air quality for National Parks and wilderness areas.
 
 <!---
 dlund9182/dlund9182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
