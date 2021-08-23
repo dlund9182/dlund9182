@@ -23,86 +23,166 @@ Hemisphere the results would start to switch in favor of the Northern Hemisphere
 of data. Well anyway here is what the data says so far for the worst wealther in the world
 
 'Lautaro': 0.5839966812291904, 
-'Cerro Arenales': 0.5686615711434276, 
+
+'Cerro Arenales': 0.5686615711434276,
+
 'Mawson Peak': 0.5604979354687009, 
+
 'Monte San Valentín': 0.5277940656840031, 
+
 'Cerro Torre': 0.45834995535068696, 
+
 'Mount Paget': 0.42413778845636463, 
-'Mount Saint Elias': 0.41434052324392995, 
+
+'Mount Saint Elias': 0.41434052324392995,
+
 'Vinson Massif': 0.41278974125080065, 
+
 'Aconcagua': 0.4025622173164484, 
-'Annapurna': 0.3981102014462882, 
+
+'Annapurna': 0.3981102014462882,
+
 'Denali': 0.39791830095472197, 
+
 'K2': 0.3932439321148293, 
+
 'Namcha Barwa': 0.38980445914801426, 
+
 'Mount Cook': 0.38891930598338104, 
+
 'Mount Fairweather': 0.3806918848988934, 
+
 'Ismoil Somoni Peak': 0.379181605997627, 
+
 'Mount Logan': 0.37799745593328, 
+
 'Dhaulagiri': 0.3755345391200096, 
+
 'Jengish Chokusu': 0.37421569821880674, 
-'Mount Elbrus': 0.37343693135090095, 
+
+'Mount Elbrus': 0.37343693135090095,
+
 'Kangchenjunga': 0.3693020647352248, 
+
 'Nanga Parbat': 0.3692609967939829, 
-'Manaslu': 0.3558926475236906, 
+
+'Manaslu': 0.3558926475236906,
+
 'Nanda Devi': 0.3531732340264602, 
-'Mount Tutoko': 0.3490441801993935, 
-'Mount Crillon': 0.3483387786630449, 
+
+'Mount Tutoko': 0.3490441801993935,
+
+'Mount Crillon': 0.3483387786630449,
+
 'Mount Rainier': 0.3462356207803758, 
+
 'Mount Everest': 0.34082437151711903, 
+
 'makalu': 0.3158255676920205, 
+
 'Mont Blanc': 0.3087787889265296, 
-'Jannu': 0.3080605740872148, 
+
+'Jannu': 0.3080605740872148,
+
 'Mount Marcus Baker': 0.2984928402335727, 
+
 'Mount Ratz': 0.29620423190290956, 
+
 'Lhotse': 0.2960938656198104, 
+
 'Rakaposhi': 0.2958133733806144, 
+
 'Khiangyang Kish': 0.29391339197264, 
-'Baintha Brakk': 0.29387838066160943, 
+
+'Baintha Brakk': 0.29387838066160943,
+
 'Lhotse Shar': 0.2896102205013981, 
+
 'Chimborazo': 0.28912315431318997, 
+
 'Mount Hood': 0.28853229683665704, 
+
 'Latok': 0.2850239377724168, 
+
 'Masherbrum': 0.2848313800001519, 
+
 'Kangto': 0.28295880178403526, 
-'Mount Waddington': 0.28130076682936717, 
-'Mount Cleveland': 0.2700786393782142, 
+
+'Mount Waddington': 0.28130076682936717,
+
+'Mount Cleveland': 0.2700786393782142,
+
 'Nuptse': 0.2695213641417501, 
-'Cloud Peak': 0.26922904109267104, 
+
+'Cloud Peak': 0.26922904109267104,
+
 'Changabang': 0.2679328247611158, 
+
 'Mount Jefferson': 0.2590775093884838, 
-'Mount Baker': 0.2575771516279915, 
-'Gannett Peak': 0.2566615067908708, 
+
+'Mount Baker': 0.2575771516279915,
+
+'Gannett Peak': 0.2566615067908708,
+
 'Huascarán': 0.25598109163446636, 
+
 'Gunnbjørn Fjeld': 0.2528463435964759, 
+
 'Mount Silverthrone': 0.2523266429828119, 
+
 'South Sister': 0.2513106850969056, 
-'Hvannadalshnúkur': 0.25067341394441484, 
-'Pico Cristóbal Colón': 0.24998989711106237, 
+
+'Hvannadalshnúkur': 0.25067341394441484,
+
+'Pico Cristóbal Colón': 0.24998989711106237,
+
 'Kings Peak': 0.24809918243533566, 
-'Mount Shasta': 0.24296329659321944, 
-'Nevado del Ruiz': 0.24278564759608975, 
+
+'Mount Shasta': 0.24296329659321944,
+
+'Nevado del Ruiz': 0.24278564759608975,
+
 'Farallones de Cali': 0.24260562772853475, 
+
 'Grand Teton': 0.23681733505608982, 
+
 'Puncak Jaya': 0.23062137098175042, 
+
 'Marys Peak': 0.22552339113183661, 
+
 'Mount Washington': 0.22117050416368075, 
+
 'Mount Olympus': 0.22015967613213397, 
+
 'Mount Elbert': 0.21421071596620847, 
-'Nevado del Huila': 0.21084367510493596, 
+
+'Nevado del Huila': 0.21084367510493596,
+
 'Mount Ritter': 0.20766862631496744, 
+
 'Mount Lyell': 0.19790529764075285, 
-'Sacajawea Peak': 0.19186800947656976, 
+
+'Sacajawea Peak': 0.19186800947656976,
+
 'Golden Hinde': 0.1912444146040957, 
+
 'Mount Goddard': 0.19083632121652175, 
+
 'Borah Peak': 0.18989513771907637, 
+
 'Iconoclast Mountain': 0.1885471392828175, 
+
 'Mount Robson': 0.18797290356531635, 
+
 'Mount Assiniboine': 0.18318304181369285, 
-'Glacier Peak': 0.17488623867849287, 
+
+'Glacier Peak': 0.17488623867849287,
+
 'Mount Whitney': 0.16522579235533952, 
-'Saddle Mountain': 0.15829685395933538, 
-'Thompson Peak': 0.15120693071016292}
+
+'Saddle Mountain': 0.15829685395933538,
+
+'Thompson Peak': 0.15120693071016292
 
 The top 6 are all in the Southern Hemisphere which is to be expected given its August 22nd as of this writing. Note that Mount Saint Elias is in the number 7th spot even 
 though its in the Northern Hemisphere so this maybe a pretty good indicator that Mount Saint Elias might consistently have one of the worst weather in the world regardless of 
