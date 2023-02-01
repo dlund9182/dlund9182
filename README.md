@@ -23,84 +23,163 @@ Hemisphere the results would start to switch in favor of the Northern Hemisphere
 of data. Well I actually do have a full years worth of Data for 2022 and here are the results
 
 'Mount Saint Elias': 0.6953232419413998
+
 'Cerro Arenales': 0.6842534178430452 
+
 'Lautaro': 0.6618167587959637
+
 'Monte San Valentín': 0.648723514893179
+
 'Mount Logan': 0.5989780981323864
+
 'Mount Fairweather': 0.5955955811238083
+
 'Mount Crillon': 0.5632098322245664
+
 'Mawson Peak': 0.5628498845362963
+
 'Denali': 0.5337741671011101
+
 'Aconcagua': 0.5336217702065112
+
 'Mount Paget': 0.5322510311333338
+
 'Cerro Torre': 0.5159122838015424
+
 'Ismoil Somoni Peak': 0.49665125696291534
+
 'Jengish Chokusu': 0.4953066766311222
+
 'Kangchenjunga': 0.4909758968686672
+
 'Dhaulagiri': 0.4756216941531952
+
 'Nanga Parbat': 0.470521988995217
+
 'Mount Cook': 0.4658549084384747
+
 'Namcha Barwa': 0.46326860339419546
+
 'Nanda Devi': 0.45991623928847764
+
 'Mount Rainier': 0.45972293648552126
+
 'Vinson Massif': 0.4589634594266044
+
 'K2': 0.4521689936152209
+
 'Mount Marcus Baker': 0.44066734049738754
+
 'Annapurna': 0.4390414786134049
+
 'Baintha Brakk': 0.43627910689536264
+
 'makalu': 0.43245726444215826
+
 'Mount Everest': 0.42994918058173526
+
 'Rakaposhi': 0.42913008337303377
+
 'Jannu': 0.42803872141711113
+
 'Masherbrum': 0.42218276946507977
+
 'Latok': 0.42140149834759305 
+
 'Mount Elbrus': 0.41685854047041926
+
 'Manaslu': 0.41570621516687806
+
 'Kangto': 0.41388038677346967
+
 'Lhotse': 0.41217019703526686
+
 'Khiangyang Kish': 0.40960776415129657
+
 'Lhotse Shar': 0.4012373599973283
+
 'Nuptse': 0.3767631739903061
+
 'Mount Ratz': 0.3741035405545543
+
 'Hvannadalshnúkur': 0.3613736519111224
+
 'Mount Hood': 0.35793515084835076
+
 'Mount Baker': 0.35327280944837697
+
 'Changabang': 0.3477598808917406
+
 'Mount Waddington': 0.34101539421144667
+
 'Mont Blanc': 0.3371933099462363
+
 'Glacier Peak': 0.33343744089008337
+
 'Mount Tutoko': 0.3303934677119538
+
 'Mount Jefferson': 0.3170018644250131
+
 'Mount Shasta': 0.30522902625959075
+
 'Gunnbjørn Fjeld': 0.2954684448599408
+
 'Huascarán': 0.2950449987343678
+
 'South Sister': 0.2932200730568169
+
 'Mount Cleveland': 0.2919388984490341
+
 'Grand Teton': 0.2909517069988931
+
 'Mount Silverthrone': 0.2852378496224654
+
 'Chimborazo': 0.2815060654075989
+
 'Gannett Peak': 0.26557355847821434
+
 'Pico Cristóbal Colón': 0.2648940336746271
+
 'Cloud Peak': 0.2621820587844304
+
 'Mount Olympus': 0.2607233876860353
+
 'Mount Robson': 0.23601697655904372
+
 'Mount Elbert': 0.22960666179282252
+
 'Golden Hinde': 0.22673689561081822
+
 'Nevado del Ruiz': 0.2257505413670131
+
 'Borah Peak': 0.22252300795470392
+
 'Kings Peak': 0.21948670328342193
+
 'Sacajawea Peak': 0.21608896830805854
+
 'Mount Washington': 0.21490427873475593
+
 'Mount Assiniboine': 0.21047403876231618
+
 'Iconoclast Mountain': 0.19994665767033296
+
 'Mount Lyell': 0.19858338971348255
+
 'Mount Goddard': 0.19489491659794897
+
 'Mount Ritter': 0.19446721498232403
+
 'Mount Whitney': 0.19303235157907275
+
 'Puncak Jaya': 0.18923268512198232
+
 'Thompson Peak': 0.16538736441016907
+
 'Marys Peak': 0.113220102168773
+
 'Saddle Mountain': 0.1010210713306618
+
 'Farallones de Cali': 0.05563971399011978
 
 -------------
