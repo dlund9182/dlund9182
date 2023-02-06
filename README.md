@@ -180,7 +180,7 @@ website.  So here are the results for a full year of data for 2022.
 
 'Saddle Mountain': 0.03546852185316519
 
-'Farallones de Cali': -0.006626890214159936
+'Farallones de Cali': 0.006626890214159936
 
 -------------
 So the mountains of the Saint Elias range, the Northern and Southern Patagonia Icecaps dominate the top spots for worst weather. They have the most consistent combination of cold weather, heavy precipitation and high winds. Now I noticed that for one of the forecasting sites, only temperature was fairly accurate. For
