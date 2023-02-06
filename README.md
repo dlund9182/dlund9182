@@ -22,170 +22,210 @@ Northern Hemisphere and Winter in the Southern Hemisphere, mountains in the Sout
 Hemisphere the results would start to switch in favor of the Northern Hemisphere. Thats why to really make a more objective assesment we really do need a number of full years 
 of data. Well I actually do have a full years worth of Data for 2022 and here are the results
 
-'Mount Saint Elias': 0.6953232419413998
 
-'Cerro Arenales': 0.6842534178430452 
+'Mount Saint Elias': 0.6761311594690332
 
-'Lautaro': 0.6618167587959637
+'Cerro Arenales': 0.6437360402220347
 
-'Monte San Valentín': 0.648723514893179
+'Lautaro': 0.6236424643860942
 
-'Mount Logan': 0.5989780981323864
+'Monte San Valentín': 0.6126843724649843
 
-'Mount Fairweather': 0.5955955811238083
+'Mount Logan': 0.582692122552209
 
-'Mount Crillon': 0.5632098322245664
+'Mount Fairweather': 0.5673970758779551
 
-'Mawson Peak': 0.5628498845362963
+'Mount Crillon': 0.5284419763882667
 
-'Denali': 0.5337741671011101
+'Mawson Peak': 0.5254876598456868
 
-'Aconcagua': 0.5336217702065112
+'Denali': 0.5221914299722641
 
-'Mount Paget': 0.5322510311333338
+'Aconcagua': 0.5075679642368424
 
-'Cerro Torre': 0.5159122838015424
+'Mount Paget': 0.49534775182214713
 
-'Ismoil Somoni Peak': 0.49665125696291534
+'Jengish Chokusu': 0.47986898764757174
 
-'Jengish Chokusu': 0.4953066766311222
+'Ismoil Somoni Peak': 0.47914726464341123
 
-'Kangchenjunga': 0.4909758968686672
+'Cerro Torre': 0.4738045424146408
 
-'Dhaulagiri': 0.4756216941531952
+'Kangchenjunga': 0.47040501369037885
 
-'Nanga Parbat': 0.470521988995217
+'Vinson Massif': 0.4538413375182156
 
-'Mount Cook': 0.4658549084384747
+'Nanga Parbat': 0.4534010747769039
 
-'Namcha Barwa': 0.46326860339419546
+'Dhaulagiri': 0.4521389397777618
 
-'Nanda Devi': 0.45991623928847764
+'K2': 0.44130605416082586
 
-'Mount Rainier': 0.45972293648552126
+'Namcha Barwa': 0.43649712022320425
 
-'Vinson Massif': 0.4589634594266044
+'Nanda Devi': 0.4361664261863536
 
-'K2': 0.4521689936152209
+'Mount Cook': 0.4213976632006064
 
-'Mount Marcus Baker': 0.44066734049738754
+'Mount Rainier': 0.41956354429654685
 
-'Annapurna': 0.4390414786134049
+'Baintha Brakk': 0.41463669079872373
 
-'Baintha Brakk': 0.43627910689536264
+'Annapurna': 0.4140920527517072
 
-'makalu': 0.43245726444215826
+'Mount Everest': 0.41152044926595494
 
-'Mount Everest': 0.42994918058173526
+'makalu': 0.4100600835473882
 
-'Rakaposhi': 0.42913008337303377
+'Mount Marcus Baker': 0.40954927289963683
 
-'Jannu': 0.42803872141711113
+'Rakaposhi': 0.40919057921726737
 
-'Masherbrum': 0.42218276946507977
+'Masherbrum': 0.40691833698948593
 
-'Latok': 0.42140149834759305 
+'Jannu': 0.3994076073316992
 
-'Mount Elbrus': 0.41685854047041926
+'Latok': 0.3985624491129971
 
-'Manaslu': 0.41570621516687806
+'Khiangyang Kish': 0.3923430577206937
 
-'Kangto': 0.41388038677346967
+'Manaslu': 0.39112830546408883
 
-'Lhotse': 0.41217019703526686
+'Lhotse': 0.39108265952876226
 
-'Khiangyang Kish': 0.40960776415129657
+'Mount Elbrus': 0.3861956869307232
 
-'Lhotse Shar': 0.4012373599973283
+'Lhotse Shar': 0.3790843348107434
 
-'Nuptse': 0.3767631739903061
+'Kangto': 0.37871801972445857
 
-'Mount Ratz': 0.3741035405545543
+'Nuptse': 0.3502687755468646
 
-'Hvannadalshnúkur': 0.3613736519111224
+'Mount Ratz': 0.33240023470531893
 
-'Mount Hood': 0.35793515084835076
+'Changabang': 0.31583694173059296
 
-'Mount Baker': 0.35327280944837697
+'Hvannadalshnúkur': 0.3148535000109236
 
-'Changabang': 0.3477598808917406
+'Mount Hood': 0.3086859088458675
 
-'Mount Waddington': 0.34101539421144667
+'Mount Baker': 0.30558459842951696
 
-'Mont Blanc': 0.3371933099462363
+'Mount Waddington': 0.3013399795791382
 
-'Glacier Peak': 0.33343744089008337
+'Mont Blanc': 0.2985146058092405
 
-'Mount Tutoko': 0.3303934677119538
+'Glacier Peak': 0.28498966750384763
 
-'Mount Jefferson': 0.3170018644250131
+'Mount Tutoko': 0.2784351979089756
 
-'Mount Shasta': 0.30522902625959075
+'The real mount Washington': 0.2725707523386968   # Based on real observable data for 2022. NOT based on modeled forecasts
 
-'Gunnbjørn Fjeld': 0.2954684448599408
+'Mount Jefferson': 0.26482900220652333 
 
-'Huascarán': 0.2950449987343678
+'Gunnbjørn Fjeld': 0.2614645127527599
 
-'South Sister': 0.2932200730568169
+'Mount Shasta': 0.2587416024321398
 
-'Mount Cleveland': 0.2919388984490341
+'Huascarán': 0.2526538152222671
 
-'Grand Teton': 0.2909517069988931
+'Grand Teton': 0.24648344143265688
 
-'Mount Silverthrone': 0.2852378496224654
+'Mount Cleveland': 0.2432904007469685
 
-'Chimborazo': 0.2815060654075989
+'South Sister': 0.23963376815597584
 
-'Gannett Peak': 0.26557355847821434
+'Mount Silverthrone': 0.23687006503875732
 
-'Pico Cristóbal Colón': 0.2648940336746271
+'Chimborazo': 0.23594039464953442
 
-'Cloud Peak': 0.2621820587844304
+'Gannett Peak': 0.22066513504074545
 
-'Mount Olympus': 0.2607233876860353
+'Pico Cristóbal Colón': 0.21587685485786015
 
-'Mount Robson': 0.23601697655904372
+'Cloud Peak': 0.21561916736689826
 
-'Mount Elbert': 0.22960666179282252
+'Mount Olympus': 0.20571191734825897
 
-'Golden Hinde': 0.22673689561081822
+'Mount Robson': 0.18436014103914264
 
-'Nevado del Ruiz': 0.2257505413670131
+'Mount Elbert': 0.18281097904847735
 
-'Borah Peak': 0.22252300795470392
+'Borah Peak': 0.17439896153719844
 
-'Kings Peak': 0.21948670328342193
+'Nevado del Ruiz': 0.17220577142455307
 
-'Sacajawea Peak': 0.21608896830805854
+'Golden Hinde': 0.171728847036299
 
-'Mount Washington': 0.21490427873475593
+'Kings Peak': 0.1709589821347771
 
-'Mount Assiniboine': 0.21047403876231618
+'Sacajawea Peak': 0.1620164394163018
 
-'Iconoclast Mountain': 0.19994665767033296
+'Mount Assiniboine': 0.160975703629703
 
-'Mount Lyell': 0.19858338971348255
+'Mount Washington': 0.1592238363234412
 
-'Mount Goddard': 0.19489491659794897
+'Iconoclast Mountain': 0.15079866489380703
 
-'Mount Ritter': 0.19446721498232403
+'Mount Lyell': 0.14585300156561665
 
-'Mount Whitney': 0.19303235157907275
+'Mount Goddard': 0.14315149423072915
 
-'Puncak Jaya': 0.18923268512198232
+'Mount Whitney': 0.14206526224691515
 
-'Thompson Peak': 0.16538736441016907
+'Mount Ritter': 0.14151570244879252
 
-'Marys Peak': 0.113220102168773
+'Puncak Jaya': 0.13212950358048353
 
-'Saddle Mountain': 0.1010210713306618
+'Thompson Peak': 0.10525486071327221
 
-'Farallones de Cali': 0.05563971399011978
+'Marys Peak': 0.047954955409605905
+
+'Saddle Mountain': 0.03546852185316519
+
+'Farallones de Cali': -0.006626890214159936
 
 -------------
-So the mountains of the Saint Elias range, the Northern and Southern Patagonia Icecaps dominate in the top spots for worst weather. They have the most consistent combination of cold weather, heavy precipitation and high winds. Now I noticed that for one of the forecasting sites, only temperature was fairly accurate. For
+So the mountains of the Saint Elias range, the Northern and Southern Patagonia Icecaps dominate the top spots for worst weather. They have the most consistent combination of cold weather, heavy precipitation and high winds. Now I noticed that for one of the forecasting sites, only temperature was fairly accurate. For
 precipitation and especially winds it was very inaccurate or at least when compared to the observable real forecasts for Mount Washington. So therefore
 for the above calculations I only included temperature data from that website.
+
+Well anyway for 2022 here is the actual real observed data for Mount Washington
+
+From https://www.mountwashington.org/experience-the-weather/observer-comments.aspx?id=59057
+
+average temperature = 29.3°F (-1.5°C), 
+precipitation = 94 inches
+Average Wind speed =  36.4 mph
+Snowfall = 236.7 inches
+
+
+Based on the weather scraped where I would take the daily average and then extrapolate to 365 since there were some days that were missing(but very few)
+
+average temperature from YR = -2.4 C
+average temperature from MountainForecast = 0.8 C
+precipitation (from YR) = 69.3 inches
+Snowfall(From MountainForecast) = 274.5 inches
+average wind speed from MountainForecast = 20.2 MPH
+average wind speed from YR = 6.5 MPH
+
+So in this example the models for temperature were the most accurate but the models for Wind speed the least accurate.
+
+Also there is information on the average annual temperature for Denali and Mount Rainier based on this website
+https://www.summitpost.org/interesting-climate-statistics-for-us-mountain-summits/171585
+
+The average temperature at the summit of Denali is -28 F(-33.3 C)
+The average temperature at the summit of Mount Rainier is 11.9F(-11.2 C)
+
+The data for 2022 when averaging the temp values for Denali and Rainier were as follows
+
+Denali
+YR has the average temp at -32.5 C
+MountainForecast has it at -32.3 C
+
+Mount Rainier
+YR has the average temp at -12.45 C
+MF has the average temp at - -11.3 C
 
 
 But more generally what am I interested in? In the short term anything related to Python but am interested in other languages as well like Java, C++ and Maybe Haskell. In the 
