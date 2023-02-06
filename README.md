@@ -17,10 +17,7 @@ a place is. Really cold places like Dome A in Antartica are very dry because at 
 cold place like Dome A has very little wind. On the other end of the spectrum a 0 would be considered the exact opposite of the worst weather in the world. 
 
 For a location to be considered it has to have weather forecast info from both websites so Dome A actually isn't considered since I only have weather forecast data from one 
-website.  So here are the current results from the data I have so far. Keep in mind that this hasn't been even a full year of data and as of this writing its Summer in 
-Northern Hemisphere and Winter in the Southern Hemisphere, mountains in the Southern Hemisphere come out on top as having the worst weather but once it hits fall in Northern 
-Hemisphere the results would start to switch in favor of the Northern Hemisphere. Thats why to really make a more objective assesment we really do need a number of full years 
-of data. Well I actually do have a full years worth of Data for 2022 and here are the results
+website.  So here are the results for a full year of data for 2022.
 
 
 'Mount Saint Elias': 0.6761311594690332
